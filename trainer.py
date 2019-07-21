@@ -90,7 +90,7 @@ class Trainer(object):
                 from model import D_NET128 as D_NET
             else:  # cfg.TREE.BRANCH_NUM == 3:
                 from model import D_NET256 as D_NET
-                
+
             netG = G_DCGAN()
             netsD = [D_NET(b_jcu=False)]
         else:
