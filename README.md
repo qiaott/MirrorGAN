@@ -33,8 +33,6 @@ After obtaining the pretrained STEM and STREAM modules, we can train the text2im
 ./do_test.sh
 ```
 
-You can play with your own dataset by changing the dataroot.
-
 ## Citation
 If you use this code for your research, please cite our paper.
 
