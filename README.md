@@ -35,7 +35,7 @@ After obtaining the pretrained STEM and STREAM modules, we can train the text2im
 
 You can play with your own dataset by changing the dataroot.
 
-##Citation
+## Citation
 If you use this code for your research, please cite our paper.
 
 ```bash
